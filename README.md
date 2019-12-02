@@ -11,7 +11,7 @@ Este repositorio contiene los archivos necesarios para poner a funcionar el robo
 - Codigos, del arduino y de la Raspberry Pi o BeagleBone Black
 
 ### Diseño en CAD del robot
-![](robotMoh.png)
+![](robotMoh.PNG)
 
 ---
 
